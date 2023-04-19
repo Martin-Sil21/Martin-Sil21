@@ -1,12 +1,13 @@
-### Hi there 👋👋, I´m Martin Silberstein
-FullStack Developer from Argentina
+### Hola! 👋👋, Soy Martin Silberstein
+FullStack Developer
 
-Connect with me:
+Contctame
 
 https://www.linkedin.com/in/martin-silberstein/
 
 martin.silberstein.bs@gmail.com
 
-- 🌱 I’m currently learning
+- 🌱 Mis conocimientos hoy en día:
 git Javascript nodejs express bootstrap css3 html5 reactjs mysql visual basic
 
+Aprendiendo todo lo posible sobre Inteligencia Artificial!!
